@@ -1,5 +1,5 @@
 name: refactor_tab
-description: A new Flutter project.
+description: Solve the text shake problem
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -16,6 +16,9 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 version: 1.0.0+1
+homepage: https://github.com/wt153/refactor_tab.git
+repository: https://github.com/wt153/refactor_tab.git
+issue_tracker: https://github.com/wt153/refactor_tab/issues
 
 environment:
   sdk: '>=2.2.2 <3.0.0'
